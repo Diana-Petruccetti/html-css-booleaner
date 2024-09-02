@@ -24,3 +24,15 @@
 .size2{
     font-size: 13px;
 }
+
+.right{
+    margin-right: 900px;
+}
+
+.blue-text{
+    color: aqua;
+}
+
+.grey-text{
+    color: lightgrey;
+}
