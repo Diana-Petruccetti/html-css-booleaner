@@ -54,3 +54,17 @@
     margin: 20px;
     padding: 40px;
 }
+
+#picture1{
+    background-image: url(../img/monitor.jpg);
+    color: rgb(255, 255, 255);
+    padding-right: 5px;
+    padding-bottom: 200px;
+}
+
+#picture2{
+    background-image: url(../img/graph.jpg);
+    color: rgb(255, 255, 255);
+    padding-right: 5px;
+    padding-bottom: 200px;
+}
