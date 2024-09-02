@@ -1,0 +1,14 @@
+.margin{
+    margin-left: 200px;
+}
+
+#logo{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(100, 130, 220);
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+#width{
+    width: 200px;
+}
