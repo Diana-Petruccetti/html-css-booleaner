@@ -40,3 +40,17 @@
 .yellow{
     background-color: yellow;
 }
+
+#table-head{
+    color: white;
+    background-color: rgb(69, 146, 235);
+}
+
+.table-body{
+    background-color: rgb(145, 201, 253);
+}
+
+.table-margin{
+    margin: 20px;
+    padding: 40px;
+}
