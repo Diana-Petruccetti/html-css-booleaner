@@ -4,11 +4,23 @@
 
 #logo{
     background-image: url(../img/pattern.png);
-    background-color: rgb(100, 130, 220);
+    background-color: rgb(69, 146, 235);
     padding-top: 50px;
     padding-bottom: 20px;
 }
 
 #width{
     width: 200px;
+}
+
+.font{
+    font-family:'Georgia','Times New Roman', Times, serif;
+}
+
+.size1{
+    font-size: 35px;
+}
+
+.size2{
+    font-size: 13px;
 }
