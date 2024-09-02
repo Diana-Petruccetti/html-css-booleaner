@@ -30,9 +30,13 @@
 }
 
 .blue-text{
-    color: aqua;
+    color: rgb(69, 146, 235);
 }
 
 .grey-text{
-    color: lightgrey;
+    color: rgb(150, 150, 150);
+}
+
+.yellow{
+    background-color: yellow;
 }
