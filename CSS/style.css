@@ -1,5 +1,6 @@
 .margin{
     margin-left: 200px;
+    margin-right: 200px;
 }
 
 #logo{
@@ -13,8 +14,9 @@
     width: 200px;
 }
 
-.font{
+body{
     font-family:'Georgia','Times New Roman', Times, serif;
+    margin: 0;
 }
 
 .size1{
@@ -23,10 +25,7 @@
 
 .size2{
     font-size: 13px;
-}
-
-.right{
-    margin-right: 900px;
+    margin-bottom: 20px;
 }
 
 .blue-text{
@@ -41,12 +40,12 @@
     background-color: yellow;
 }
 
-#table-head{
+thead{
     color: white;
     background-color: rgb(69, 146, 235);
 }
 
-.table-body{
+.bluebg{
     background-color: rgb(145, 201, 253);
 }
 
@@ -55,16 +54,31 @@
     padding: 40px;
 }
 
+table{
+    text-align: left;
+    padding-top: 20px;
+    border-collapse: collapse;
+}
+
+td{
+    width: 35rem;
+}
+
 #picture1{
     background-image: url(../img/monitor.jpg);
     color: rgb(255, 255, 255);
-    padding-right: 5px;
-    padding-bottom: 200px;
+    width: 18rem;
+    height: 12rem;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 #picture2{
     background-image: url(../img/graph.jpg);
     color: rgb(255, 255, 255);
-    padding-right: 5px;
-    padding-bottom: 200px;
+    width: 18rem;
+    height: 12rem;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
 }
